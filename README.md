@@ -17,19 +17,25 @@ Wanderlust is a full-featured travel listing web application built with **Node.j
 ---
 
 ## 🛠️ Project Structure
+
+```
 📦 Delta-Project-main
-┣ 📂 controllers/ # Route logic
-┣ 📂 models/ # Mongoose schemas
-┣ 📂 routes/ # Express routes
-┣ 📂 views/ # EJS templates
-┣ 📂 public/ # Static assets (CSS/JS)
-┣ 📂 utils/ # Helper functions
-┣ 📂 init/ # Seeding scripts
-┣ 📄 app.js # Entry point
-┣ 📄 cloudConfig.js # Cloudinary config
+┣ 📂 controllers/        # Route logic
+┣ 📂 models/             # Mongoose schemas
+┣ 📂 routes/             # Express routes
+┣ 📂 views/              # EJS templates
+┣ 📂 public/             # Static assets (CSS/JS)
+┣ 📂 utils/              # Helper functions
+┣ 📂 init/               # Seeding scripts
+┣ 📄 app.js              # Entry point
+┣ 📄 cloudConfig.js      # Cloudinary config
 ┣ 📄 package.json
-┣ 📄 .env # Environment variables (not committed)
+┣ 📄 .env                # Environment variables (not committed)
 ┣ 📄 .gitignore
+```
+
+
+
 
 
 ---
