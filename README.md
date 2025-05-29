@@ -1,3 +1,1 @@
-# Delta-Project-main
-# Delta-Project-main
-# Delta-Project-main
+WanderLust - We implemented a full stack project using the MVC framework. Basically, it is an online marketplace that connects people who want to rent out their property with people who are looking for accommodations.
