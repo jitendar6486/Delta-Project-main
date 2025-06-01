@@ -107,8 +107,8 @@ Wanderlust is a full-featured travel listing web application built with **Node.j
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jitendar6486/MajorProject.git
-   cd MajorProject
+   git clone https://github.com/jitendar6486/Delta-Project.main.git
+   cd Delta-Project.main
    ```
 
 2. **Install dependencies:**
